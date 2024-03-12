@@ -1,0 +1,10 @@
+<resources>
+    <string name="AT1_title" translatable="false">AT1</string>
+    <string name="AT2_title" translatable="false">AT2</string>
+    <string name="description_AT1">This page is AT1</string>
+    <string name="description_AT1_land">This page is AT1 with landscape</string>
+    <string name="description_AT2">Information about me</string>
+    <string name="go_to_AT2">Click here to go to AT2</string>
+    <string name="go_to_AT1">Click here to go to AT1</string>
+    <string name="all_info">Name: Rodrigo Rodrigues \n Age: 22 \n Address: Barcelos</string>
+</resources>

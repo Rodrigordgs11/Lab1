@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_AT1">Esta é a página é a AT1</string>
+    <string name="description_AT2">Informações sobre mim</string>
+    <string name="go_to_AT2">Clica aqui para ir a AT2</string>
+    <string name="go_to_AT1">Clica aqui para ir a AT1</string>
+    <string name="all_info">Nome: Rodrigo Rodrigues \n Idade: 22 \n Localidade: Barcelos</string>
+    <string name="description_AT1_land">Esta é a página é a AT1 com paisagem</string>
+</resources>

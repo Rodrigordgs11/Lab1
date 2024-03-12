@@ -1,0 +1,9 @@
+<resources>
+    <string name="AT1_title">AT1</string>
+    <string name="AT2_title">AT2</string>
+    <string name="description_AT1">Esta é a página AT1</string>
+    <string name="description_AT2">Informações sobre mim</string>
+    <string name="go_to_AT2">Clica aqui para ir a AT2</string>
+    <string name="go_to_AT1">Clica aqui para ir a AT1</string>
+    <string name="all_info">Nome: Rodrigo Rodrigues \n Idade: 22 \n Localidade: Barcelos</string>
+</resources>
